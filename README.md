@@ -23,7 +23,7 @@ CEH / OSCP / DCPT / eMAPT / eCPPTv2 / CMAPT (iOS) / Certified Mobile Pentester (
 
 <br>
 
-<img src="https://github.com/oryonfarias/0sfx01/blob/main/pxArt.png" width="300">
+<img src="https://github.com/oryonfarias/oryonfarias/blob/main/pxArt.png" width="300">
 
 </br>
 
